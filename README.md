@@ -1,8 +1,8 @@
 # Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## My name is Zuza Ganobis and I am pleased to welcome you to my repository
+My name is Zuza Ganobis and I am pleased to welcome you to my repository
 
-### Few words about me...
+## Few words about me...
 
 Junior Front-End Developer (soon :wink:)
 
@@ -10,7 +10,7 @@ When I started learning, I did not assume that I would decide to change my profe
 
 ✉️ Feel free to contact me by e-mail: [zuzaganobis@gmail.com](mailto:zuzaganobis@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/zuzanna-ganobis-165659174/)
 
-### Skills
+## Skills
 
 <p align="left">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
