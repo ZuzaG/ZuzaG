@@ -1,6 +1,6 @@
 # Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## My name is Zuza Ganobis and I am pleased to welcome you to my repository.
+## My name is Zuza Ganobis and I am pleased to welcome you to my repository
 
 ### Few words about me...
 
