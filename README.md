@@ -1,8 +1,8 @@
-#Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-##My name is Zuza Ganobis and I am pleased to welcome you to my repository.
+My name is Zuza Ganobis and I am pleased to welcome you to my repository.
 
-###Few words about me...
+Few words about me...
 
 Junior Front-End Developer
 
@@ -25,4 +25,4 @@ When I started learning, I did not assume that I would decide to change my profe
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />  
 </p>
 
-<a href="https://github.com/mateuszchmiest" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuzag&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
