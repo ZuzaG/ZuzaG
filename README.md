@@ -1,10 +1,10 @@
-#Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-My name is Zuza Ganobis and I am pleased to welcome you to my repository.
+## My name is Zuza Ganobis and I am pleased to welcome you to my repository.
 
-Few words about me...
+### Few words about me...
 
-Junior Front-End Developer
+Junior Front-End Developer (soon :wink:)
 
 When I started learning, I did not assume that I would decide to change my profession. I did it out of curiosity and willingness to look for new challenges, but when I realized the satisfaction that solving technical puzzles brings me, I realized that this is what I want to do also professionally. I like to see the effect of the work done, pay attention to the details and sethetics of the project.
 
