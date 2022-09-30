@@ -6,7 +6,7 @@ My name is Zuza Ganobis and I am pleased to welcome you to my repository.
 
 Junior Front-End Developer (soon :wink:)
 
-When I started learning, I did not assume that I would decide to change my profession. I did it out of curiosity and willingness to look for new challenges, but when I realized the satisfaction that solving technical puzzles brings me, I realized that this is what I want to do also professionally. I like to see the effect of the work done, pay attention to the details and sethetics of the project.
+When I started learning, I did not assume that I would decide to change my profession. I did it out of curiosity and willingness to look for new challenges, but when I realized the satisfaction that solving technical puzzles brings me, I realized that this is what I want to do also professionally. I like to see the effect of the work done, pay attention to the details and aesthetics of the project.
 
 ✉️ Feel free to contact me by e-mail: [zuzaganobis@gmail.com](mailto:zuzaganobis@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/zuzanna-ganobis-165659174/)
 
